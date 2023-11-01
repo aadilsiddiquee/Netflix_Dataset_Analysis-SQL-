@@ -56,5 +56,4 @@ The following analysis tasks were executed on the Netflix dataset:
 
 In conclusion, the Netflix Dataset Analysis project offers a comprehensive examination of the content available on the Netflix platform. It addresses a myriad of questions, ranging from content categorization and user preferences to quality assessment and content production. The insights derived from this analysis serve as valuable tools for content creators, administrators, and users who seek a deeper understanding of the Netflix library.
 
-The SQL analysis code used for this project and the findings are included in this repository. Users can replicate the analysis, explore the dataset further, and make data-driven decisions related to content creation, audience targeting, and user experience enhancement.
-
+The SQL analysis code used for this project and the findings are included in this repository. 
