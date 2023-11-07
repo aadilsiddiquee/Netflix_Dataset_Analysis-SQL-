@@ -1,6 +1,4 @@
-# <p align="center"> Netflix Dataset Analysis (SQL) </p>
-
-# <p align="center"> <img src="https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png" alt="Netflix Logo" width="500" height="250" align="center"> </p>
+# <p align="center"> Netflix Dataset Analysis (SQL) <br> <br> <img src="https://www.edigitalagency.com.au/wp-content/uploads/Netflix-logo-red-black-png.png" alt="Netflix Logo" width="500" height="250" align="center"></p>
 
 ## Introduction
 
